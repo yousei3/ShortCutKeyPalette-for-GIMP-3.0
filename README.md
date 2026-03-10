@@ -50,6 +50,7 @@ chmod +x ShortCutKey-Palette.py
 ## 日本語説明
 
 GIMP 3.0 用の、シンプルでカスタマイズ可能なショートカットパレットです。
+このアドオンはLinux専用です。
 
 ### 特徴
 
