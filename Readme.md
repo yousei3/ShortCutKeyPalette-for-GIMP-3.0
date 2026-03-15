@@ -26,7 +26,7 @@ This plugin now supports Windows, Linux (X11), and has experimental support for 
 5. Restart GIMP.
 
 ## How to Use
-1. Launch the plugin from the GIMP menu: Image > Windows > Open ShortCutKeyPalette.
+1. Launch the plugin from the GIMP menu:  Windows > Open ShortCutKeyPalette.
 2. A sample palette will open (loaded from the included palette_config.json).
 3. Click the gear icon (Edit) on any button to change its label, shortcut key, or background color.
    - You can choose from several preset dark colors to keep the white text readable.
