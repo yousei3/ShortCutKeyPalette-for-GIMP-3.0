@@ -1,0 +1,32 @@
+[
+    {
+        "label": "Fill FG Color",
+        "keys": "ctrl+comma",
+        "type": "key",
+        "color": "#8b0000"
+    },
+    {
+        "label": "Fill with Pattern",
+        "keys": "ctrl+semicolon",
+        "type": "key",
+        "color": "#003D99"
+    },
+    {
+        "label": "Export as",
+        "keys": "ctrl+shift+e",
+        "type": "key",
+        "color": "#b8860b"
+    },
+    {
+        "label": "Open",
+        "keys": "ctrl+o",
+        "type": "key",
+        "color": "#800080"
+    },
+    {
+        "label": "Toggle Quick Mask",
+        "keys": "shift+q",
+        "type": "key",
+        "color": "#007175"
+    }
+]
